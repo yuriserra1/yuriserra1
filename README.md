@@ -2,7 +2,7 @@
 
 **Desenvolvedor FULL STACK**
 
-Me chamo Yuri Oliveira Serra, tenho 20 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Computação na FURG. Sou apaixonado por tecnologia e utilizo o GitHub para compartilhar alguns dos projetos práticos que desenvolvo. Para acompanhar mais sobre minha trajetória profissional e fazer networking, conecte-se comigo no "[LinkedIn](linkedin.com/in/yuri-oliveira-serra-5a8162303)".   
+Me chamo Yuri Oliveira Serra, tenho 20 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Computação na FURG. Sou apaixonado por tecnologia e utilizo o GitHub para compartilhar alguns dos projetos práticos que desenvolvo. Para acompanhar mais sobre minha trajetória profissional e fazer networking, conecte-se comigo no "[LinkedIn](https://www.linkedin.com/in/yuri-oliveira-serra-5a8162303/)".   
  </a> 
    <a href="https://github.com/yuriserra1?tab=repositories">
         <img 
