@@ -1,8 +1,10 @@
-# 👩🏻‍💻 Yuri Oliveira Serra
+# 👨🏻‍💻 Yuri Oliveira Serra
 
-**Desenvolvedor Backend**
+Sou estudante de **Engenharia de Computação** na **Universidade Federal do Rio Grande — FURG** e integrante da equipe do **ECOLAB**, vinculado ao instituto **C3 — Centro de Ciências Computacionais**.
 
-Me chamo Yuri Oliveira Serra, tenho 20 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Computação na FURG. Sou apaixonado por tecnologia e utilizo o GitHub para compartilhar alguns dos projetos práticos que desenvolvo. Para acompanhar mais sobre minha trajetória profissional e fazer networking, conecte-se comigo no "[LinkedIn](https://www.linkedin.com/in/yuri-oliveira-serra-5a8162303/)".   
+Sou apaixonado por tecnologia, desenvolvimento de software e simulações computacionais. Utilizo o GitHub para compartilhar alguns dos projetos práticos e acadêmicos que desenvolvo, especialmente envolvendo C#, Unity, Python e otimização de desempenho.
+
+Para acompanhar mais sobre minha trajetória profissional e fazer networking, conecte-se comigo no "[LinkedIn](https://www.linkedin.com/in/yuri-oliveira-serra-5a8162303/)".   
  </a> 
    <a href="https://github.com/yuriserra1?tab=repositories">
         <img 
