@@ -21,7 +21,7 @@ Para acompanhar mais sobre minha trajetória profissional e fazer networking, co
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [Simulação de evacuação em plataforma offshore](https://github.com/yuriserra1/offshore-evacuation-sim-portfolio) | Simulador 3D que compara modelos de multidão (BioCrowds na GPU e Social Forces) na evacuação de uma plataforma, com experimentos automatizados e reprodutíveis. Pesquisa no ECOLAB/C3/FURG. | Unity, C#, HLSL |
+| [Simulação de evacuação em plataforma offshore](https://github.com/yuriserra1/offshore-evacuation-sim-portfolio) | Simulador 3D que compara modelos de multidão (BioCrowds na GPU e Social Forces) na evacuação de uma plataforma, com experimentos automatizados e reprodutíveis. Projeto de pesquisa da FURG, do qual participo como voluntário. | Unity, C#, HLSL |
 | [Chatbot de agendamento para WhatsApp](https://github.com/yuriserra1/whatsapp-agenda-bot-portfolio) | Assistente que agenda, consulta e cancela consultas em linguagem natural e grava numa planilha do Google. A IA interpreta a conversa e as regras ficam em código testado. | TypeScript, Node.js, Gemini, Google Sheets API, Docker |
 | [Sistema de arquivos baseado em i-nodes](https://github.com/yuriserra1/sistema_arquivos) | Simulador didático com disco de 128 MiB, blocos de 2.048 bytes, diretórios, links simbólicos e persistência. | Python |
 | [Driver Profit Calc](https://github.com/yuriserra1/gestao-motorista-app) | Aplicação web para motoristas de aplicativo calcularem a rentabilidade real dos turnos de trabalho. | JavaScript, HTML, CSS |
